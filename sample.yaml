@@ -1,0 +1,57 @@
+marketplace_name: MP_name
+description: description
+url: url
+user_info:
+ - end_users: 10
+   end_users_source: url
+   org_customers: 10
+   org_customers_source: url
+company_info:
+ - company_size: linkedIn range
+   hq: linkedIn city
+   year: linkedIn year
+   specialisations: linkedin info
+   linkedin_url: url
+   twitter_handle: handle
+   twitter_followers: 10
+   categories:
+    - cat1
+    - cat2
+    - cat3
+partnership_info:
+ - partnership_program: true
+   partnership_program_url: url
+   co-marketing: Y/N/Unspecified
+marketplace_info:
+ - user_rating: true
+   user_reviews: true
+   app_recoomendations: true
+   app_certification:
+    - certification_process: true
+      url: url
+   number_of_apps:
+   - number: 10
+     descriptor: above
+     exact: 10
+     source: url
+   revenue_share: true
+   integrated_billing: true
+technical_info:
+ - authentication_type: oauth
+   developer_forum: url or no
+   devloper_portal_url: url or no
+   open_documentation: true
+media: 
+ - logo: image_url
+   marketplace_screenshot: 
+    - image1
+    - image2
+    - image3
+   app_page_screenshot:
+    - image1
+    - image2
+    - image3
+   developer_page_screenshot:
+    - image1
+    - image2
+    - image3
